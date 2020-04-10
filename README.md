@@ -5,4 +5,4 @@ Front-end and back-end Contact Tracing application
 Will be updated soon.
 
 # Branching.
-asasdasd
+
