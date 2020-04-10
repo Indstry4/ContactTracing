@@ -1,5 +1,5 @@
 # ContactTracing
 Front-end and back-end Contact Tracing application
 
-#Description
+# Description
 Will be updated soon
